@@ -33,7 +33,6 @@ const main={
     },
     run:function()
     {
-
         this.load_content();
         this.draw();
         this.resize();
